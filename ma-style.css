@@ -43,6 +43,9 @@ h1 span {
        background-color:white;
        margin:0 0 10px 0;
 }
+legend{
+    border: 3px solid;
+    border-radius: 50px;}
 .section {
 	background-color: #fff;
 	padding: 15px;
