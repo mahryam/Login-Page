@@ -39,6 +39,10 @@ h1 span {
 	border: 4px dashed #20bcd5;
 	padding: 10px;
 }
+#single{
+       background-color:white;
+       margin:0 0 10px 0;
+}
 .section {
 	background-color: #fff;
 	padding: 15px;
